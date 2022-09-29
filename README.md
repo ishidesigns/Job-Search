@@ -7,7 +7,7 @@
 
 ## Technologies
 1. Main language - Java
-2. Jsva libraries - JApplet
+2. Java libraries - JApplet
 3. MySQL database
 
 ## Applications Used
